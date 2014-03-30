@@ -1,0 +1,9 @@
+{ "version": "0.1"
+, "summary": "drag'n'drop support"
+, "description": "This library provides drag'n'drop support for Elm applications."
+, "license": "BSD3"
+, "repository": "https://github.com/echaozh/elm-drag.git"
+, "exposed-modules": ["Drag"]
+, "elm-version": "0.12"
+, "dependencies":{}
+}
